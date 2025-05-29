@@ -1,0 +1,73 @@
+{
+    "uid": "4F2B989B9694C741493B6DA40EC94FF93F27",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Credits",
+        "type": "vn.scene",
+        "parentId": "B87801FC0A24214FB509DEE7D367F66DB429",
+        "chapterUid": "B87801FC0A24214FB509DEE7D367F66DB429",
+        "order": 17,
+        "livePreviewDisabled": false,
+        "localizableStrings": {},
+        "commands": [
+            {
+                "id": "vn.ChangeBackground",
+                "params": {
+                    "viewport": {
+                        "type": "scene"
+                    },
+                    "graphic": {
+                        "name": "Credits.png",
+                        "folderPath": "Graphics/Backgrounds/Intro & Credits",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": {
+                            "red": 0,
+                            "green": 0,
+                            "blue": 0,
+                            "grey": 0
+                        }
+                    },
+                    "layer": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "origin": 0,
+                    "zOrder": 0,
+                    "loopVertical": 0,
+                    "loopHorizontal": 0,
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1
+                    },
+                    "previewBackground": {
+                        "name": "$live_preview_snapshot"
+                    }
+                },
+                "uid": "572D389E2AFA734BA14B03A7C1276916B7B2",
+                "indent": 0
+            }
+        ]
+    },
+    "summary": [
+        "name",
+        "type",
+        "parentId",
+        "chapterUid",
+        "order"
+    ],
+    "externalItems": []
+}
